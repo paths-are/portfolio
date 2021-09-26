@@ -1,11 +1,11 @@
 const userData = {
-  githubUsername: "manuarora700",
-  name: "Manu Arora",
+  githubUsername: "paths-are",
+  name: "Shinkawa Shinji",
   designation: "Full-Stack Developer",
   avatarUrl: "/avatar.png",
-  email: "manuarorawork@gmail.com",
-  phone: "+91 9587738861",
-  address: "Jaipur, Rajasthan, India.",
+  email: "co@gmail.com",
+  phone: "000-0000-0000",
+  address: "Japan/Tokyo",
   projects: [
     {
       title: "Tailwind Master Kit",
